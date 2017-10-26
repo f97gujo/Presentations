@@ -1,0 +1,7 @@
+Ideas for further talks
+
+Tractatus Logico-philosophicus for testers, either just translate to testing domain, or do a presentation and a critique
+
+Philosopher's toolkit adapted to testers
+
+Explanation of the philosophers song by Monty Python
